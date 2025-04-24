@@ -24,7 +24,7 @@
 </head>
 <body>
   <header>
-    <div class="logo">Crédito Fácil Brasil</div>
+    <div class="logo">Créd Fácil Brasil</div>
     <div>Solução rápida para quem mais precisa</div>
   </header>
 
