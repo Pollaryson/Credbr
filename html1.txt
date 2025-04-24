@@ -47,7 +47,7 @@
       <label for="cpf">CPF:</label>
       <input type="text" id="cpf" placeholder="000.000.000-00">
 
-      <button onclick="mostrarAprovado()">Solicitar Crédito</button>
+      <button onclick="mostrarAprovado()">Solicitar Crédito AGORA</button>
     </div>
 
     <div class="urgencia">
